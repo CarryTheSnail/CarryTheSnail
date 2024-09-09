@@ -12,7 +12,9 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
   - [osTicket: Post-Installation Configuration](https://github.com/CarryTheSnail/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CarryTheSnail/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CarryTheSnail/configure-ad)
+  - Configuring On-premises Active Directory within Azure VMs
+    - [Setting up the infrastructure on Azure](https://github.com/CarryTheSnail/AD-Infrastructure)
+    - [Deploying Active Directory](https://github.com/CarryTheSnail/AD-Deployment)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
