@@ -18,12 +18,11 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
   - Firewall: Network Security Groups (NSGs) and Inspecting Network Traffic on WireShark
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols) 
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me on LinkedIn :</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+
+[linkedin]: https://linkedin.com/in/ian-sunwoo-93757a327/
+<a href="https://www.linkedin.com/in/ian-sunwoo-93757a327/">LinkedIn Profile</a></h1>
