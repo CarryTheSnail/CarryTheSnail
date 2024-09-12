@@ -15,7 +15,8 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
   - Configuring On-premises Active Directory within Azure VMs
     - [Setting up the infrastructure on Azure](https://github.com/CarryTheSnail/AD-Infrastructure)
     - [Deploying Active Directory](https://github.com/CarryTheSnail/AD-Deployment)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols)
+  - Firewall: Network Security Groups (NSGs) and Inspecting Network Traffic on WireShark
+    -[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols) 
 
 <h2>🤳Connect with me:</h2>
 
