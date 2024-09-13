@@ -17,8 +17,9 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
     - [Deploying Active Directory](https://github.com/CarryTheSnail/AD-Deployment)
     - [Group Policy and Managing Accounts](https://github.com/CarryTheSnail/Group_Policy)
   - Firewall: Network Security Groups (NSGs) and Inspecting Network Traffic on WireShark
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols) 
-
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols)
+  - Network File Shares and Permissions 
+    - [Network File Shares and Permissions](https://github.com/CarryTheSnail/Network_File_Shares)
 <h2>🤳Connect with me on LinkedIn :</h2>
 
 
