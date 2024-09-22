@@ -2,8 +2,7 @@
 
 :nerd_face:**`Passionate Nerd (Networking/CyberSurety)`**
 
-I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio displays projects that demonstrate my newly acquired knowledge and technical skills in Networking and Cyber Security. 
-
+I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio is growing as my knowledge grows. Here, I display projects that demonstrate my newly acquired knowledge and technical skills in everything-IT. 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
