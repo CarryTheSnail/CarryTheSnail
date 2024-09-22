@@ -19,11 +19,13 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarryTheSnail/azure-network-protocols)
   - Network File Shares and Permissions 
     - [Network File Shares and Permissions](https://github.com/CarryTheSnail/Network_File_Shares)
+
+   
+<h2>:scroll: Certifications:</h2>
+
+CompTIA A+ 
+
 <h2>🤳Connect with me on LinkedIn :</h2>
-
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/ian-sunwoo-93757a327/
 <a href="https://www.linkedin.com/in/ian-sunwoo-93757a327/">LinkedIn Profile</a></h1>
