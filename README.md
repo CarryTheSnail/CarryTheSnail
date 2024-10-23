@@ -23,7 +23,11 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
    
 <h2>:scroll: Certifications:</h2>
 
-![comptia-a-ce-certification 1 (2)](https://github.com/user-attachments/assets/19cfbd8a-e1fb-4a89-9946-93c8be6119eb)
+![comptia-a-ce-certification 1 (4)](https://github.com/user-attachments/assets/4354c231-eb6e-4077-b6e0-665e32b94f96)
+ ![comptia-security-ce-certification (6)](https://github.com/user-attachments/assets/3688a758-8aef-4975-b0c8-12b744dd1d79)
+ ![certified-in-cybersecurity-cc (2)](https://github.com/user-attachments/assets/4932fe70-5ddc-468d-92d4-189ea37b2f31)
+
+
 
 <h2>🤳Connect with me on LinkedIn :</h2>
 
