@@ -4,6 +4,12 @@
 
 I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio is growing as my knowledge grows. Here, I display projects that demonstrate my newly acquired knowledge and technical skills in everything-IT. 
 
+<h2> :lock: Cyber Security Projects:</h2>
+
+- <b>(in-progress) MyDFIR 30 Day SOC Analyst Challenge </b>
+  - [Logical Diagram](https://github.com/CarryTheSnail/logical_diagram)
+- <b>(in-progress) SIEM Homelab </b>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
