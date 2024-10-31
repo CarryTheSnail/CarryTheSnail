@@ -9,6 +9,7 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
 - <b>(in-progress) MyDFIR 30 Day SOC Analyst Challenge </b>
   - [Logical Diagram for the Project](https://github.com/CarryTheSnail/logical_diagram)
   - [Elasticsearch Setup](https://github.com/CarryTheSnail/elasticsearch_setup)
+  - [Kibana Setup](https://github.com/CarryTheSnail/kibana_setup)
 - <b>(in-progress) SIEM Homelab </b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
