@@ -6,8 +6,8 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
 
 ## ⚠️ Vulnerability Management Projects:
 
-- **[Vulnerability Management Program Implementation](https://github.com/CarryTheSnail/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[NESSUS TENABLE: Vulnerability Management Program Implementation](https://github.com/CarryTheSnail/Vulnerability-Management-Program)**
+
 <h2> :lock: Cyber Security Projects:</h2>
 
 - <b>(in-progress) MyDFIR 30 Day SOC Analyst Challenge </b>
