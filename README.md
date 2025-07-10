@@ -2,7 +2,16 @@
 
 :nerd_face:**`Passionate Learner (Networking/Cybersecurity)`**
 
-I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio is growing as my knowledge grows. Here, I display projects that demonstrate my newly acquired knowledge and technical skills in everything-IT. 
+# Welcome to My GitHub!
+
+I am a passionate student currently pursuing a MS degree in Cybersecurity and Information Assurance. With a strong interest in protecting digital assets and understanding security frameworks, I am dedicated to building my skills and knowledge in the cybersecurity field.
+
+Feel free to explore my repository, and let's connect to share knowledge and opportunities in cybersecurity!
+
+<a href="https://linkedin.com/in/ian-sunwoo-93757a327">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="200"/>
+</a>
+ 
 
 ## ⚠️ Vulnerability Management Projects:
 
