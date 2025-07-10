@@ -1,6 +1,6 @@
 <h1>:snail: Hi, I'm Ian, an <a href="https://www.linkedin.com/in/ian-sunwoo-93757a327/">IT Professional</a></h1>
 
-:nerd_face:**`Passionate Nerd (Networking/CyberSurety)`**
+:nerd_face:**`Passionate Learner (Networking/Cybersecurity)`**
 
 I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio is growing as my knowledge grows. Here, I display projects that demonstrate my newly acquired knowledge and technical skills in everything-IT. 
 
