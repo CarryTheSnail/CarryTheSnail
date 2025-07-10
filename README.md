@@ -6,7 +6,7 @@ I am an IT professional pursuing my passion in Cyber Surety/Security. Learning n
 
 ## ⚠️ Vulnerability Management Projects:
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation]([https://github.com/joshcybertest/vulnerability-management-program](https://github.com/CarryTheSnail/Vulnerability-Management-Program/tree/main))**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 <h2> :lock: Cyber Security Projects:</h2>
 
