@@ -4,6 +4,10 @@
 
 I am an IT professional pursuing my passion in Cyber Surety/Security. Learning never stops for me. My portfolio is growing as my knowledge grows. Here, I display projects that demonstrate my newly acquired knowledge and technical skills in everything-IT. 
 
+## ⚠️ Vulnerability Management Projects:
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 <h2> :lock: Cyber Security Projects:</h2>
 
 - <b>(in-progress) MyDFIR 30 Day SOC Analyst Challenge </b>
