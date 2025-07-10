@@ -1,4 +1,4 @@
-<h1>:snail: Hi, I'm Ian, a <a href="https://www.linkedin.com/in/ian-sunwoo-93757a327/">Cybersecurity Analyst</a></h1>
+<h1>:snail: Hi, I'm Ian, a <a href="https://www.linkedin.com/in/ian-sunwoo-93757a327/">Cybersecurity Professional</a></h1>
 
 :nerd_face:**`Passionate Learner (Networking/Cybersecurity)`**
 
