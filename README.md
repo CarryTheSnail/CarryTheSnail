@@ -17,13 +17,13 @@ Feel free to explore my repository, and let's connect to share knowledge and opp
 
 - **[NESSUS TENABLE: Vulnerability Management Program Implementation](https://github.com/CarryTheSnail/Vulnerability-Management-Program)**
 
-<h2> :lock: Cyber Security Projects:</h2>
+<!-- <h2> :lock: Cyber Security Projects:</h2> -->
 
-- <b>(in-progress) ELK Stack </b>
-  - [Logical Diagram for the Project](https://github.com/CarryTheSnail/logical_diagram)
+<!-- - <b>(in-progress) ELK Stack </b> -->
+<!-- - [Logical Diagram for the Project](https://github.com/CarryTheSnail/logical_diagram) -->
 <!--  - [Elasticsearch Setup](https://github.com/CarryTheSnail/elasticsearch_setup) -->
 <!--  - [Kibana Setup](https://github.com/CarryTheSnail/kibana_setup) -->
-- <b>(in-progress) SIEM Homelab </b>
+<!-- - <b>(in-progress) SIEM Homelab </b> -->
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
