@@ -16,6 +16,10 @@ Feel free to explore my repository, and let's connect to share knowledge and opp
 ## ⚠️ Vulnerability Management Projects:
 
 - **[NESSUS TENABLE: Vulnerability Management Program Implementation](https://github.com/CarryTheSnail/Vulnerability-Management-Program)**
+  
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CarryTheSnail/threat-hunting-scenario-tor)**
 
 <!-- <h2> :lock: Cyber Security Projects:</h2> -->
 
