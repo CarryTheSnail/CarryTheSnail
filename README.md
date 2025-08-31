@@ -4,7 +4,11 @@
 
 # Welcome to My GitHub!
 
-I am a passionate student currently pursuing a MS degree in Cybersecurity and Information Assurance. With a strong interest in protecting digital assets and understanding security frameworks, I am dedicated to building my skills and knowledge in the cybersecurity field.
+🚀 Currently leveling up as a Master’s student in Cybersecurity & Information Assurance.
+🔐 Obsessed with keeping the bad guys out, whether it’s through threat detection, network defense, or security frameworks.
+⚡ I enjoy breaking things down (ethically 😉) just as much as I enjoy building secure systems back up.
+📚 Lifelong learner with one foot in the classroom and the other deep in hands-on projects—from Vulnerability Management to Active Threat Hunting.
+🛡️ Goal: turn curiosity and skills into a career safeguarding digital frontiers.
 
 Feel free to explore my repository, and let's connect to share knowledge and opportunities in cybersecurity!
 
